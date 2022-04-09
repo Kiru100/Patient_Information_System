@@ -12,6 +12,6 @@
 <h2>Delete Patient Record</h2>
 <p><img src="https://user-images.githubusercontent.com/79371033/158022509-f97d0eb1-8529-4027-b695-4a5652552a1a.png" alt="Login"/></p>
 <h2>Patient Record</h2>
-<p><img src="https://user-images.githubusercontent.com/79371033/158022513-53c0fc1b-857e-4b0e-9e5f-374fbfaa75ef.png" alt="Login"/></p>
+<p><img src="https://user-images.githubusercontent.com/79371033/162564948-258834bc-fd69-44a4-90dc-9da3d8ae414c.png" alt="Login"/></p>
 <h2>Edit Patient Record</h2>
 <p><img src="https://user-images.githubusercontent.com/79371033/158022511-dddf6d5d-ab65-4e71-8f9c-1e2a7709297d.png" alt="Login"/></p>
